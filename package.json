@@ -1,0 +1,12 @@
+{
+  "name": "mc-firebase-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "firebase": "^10.8.0",
+    "mineflayer": "^4.20.0"
+  }
+}
